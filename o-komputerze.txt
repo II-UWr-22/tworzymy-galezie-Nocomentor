@@ -1,0 +1,24 @@
+Darwin k151-156.eduroam.uni.wroc.pl 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:14:54 PDT 2022; root:xnu-8792.41.9~2/RELEASE_X86_64 x86_64
+Mach Virtual Memory Statistics: (page size of 4096 bytes)
+Pages free:                               54940.
+Pages active:                           1587046.
+Pages inactive:                         1569767.
+Pages speculative:                        16721.
+Pages throttled:                              0.
+Pages wired down:                        741486.
+Pages purgeable:                         363399.
+"Translation faults":                2840813761.
+Pages copy-on-write:                   11796754.
+Pages zero filled:                   2332872572.
+Pages reactivated:                      3143233.
+Pages purged:                           7622976.
+File-backed pages:                       661023.
+Anonymous pages:                        2512511.
+Pages stored in compressor:             1031434.
+Pages occupied by compressor:            224189.
+Decompressions:                        14873754.
+Compressions:                          20104944.
+Pageins:                               12568297.
+Pageouts:                                 87476.
+Swapins:                               14000908.
+Swapouts:                              14630797.
